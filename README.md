@@ -8,6 +8,7 @@
 </p>
 
 ###Desciption :
+You have lot of corporate names, and you want to compare them to your own customers ? :  
 This node will allow you to find the best candidate of the corporate name you are looking for.
 You will able to use the power of the [stringdist library](https://cran.r-project.org/web/packages/stringdist/index.html)
 
