@@ -11,4 +11,4 @@
 This node will allow you to find the best candidate of the corporate name you are looking for.
 You will able to use the power of the [stringdist library](https://cran.r-project.org/web/packages/stringdist/index.html)
 
-![alt tag](https://raw.githubusercontent.com/VinceLYO/Fuzzy_Matching/master/Files/Fuzzy_GIF.gif)
+![alt tag](https://raw.githubusercontent.com/VinceLYO/Fuzzy_Matching/master/Files/Fuzzy_Capt1.gif)
